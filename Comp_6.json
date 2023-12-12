@@ -1,0 +1,17 @@
+
+{
+    "sectionHeading": "Contact Us",
+    "namePlaceholder": "Name",
+    "phoneNumberPlaceholder": "Phone Number",
+    "emailPlaceholder": "Email",
+    "messagePlaceholder": "Message",
+    "sendButtonText": "Send",
+
+    "sectionHeading_meta": "10",
+    "namePlaceholder_meta": "4",
+    "phoneNumberPlaceholder_meta": "12",
+    "emailPlaceholder_meta": "5",
+    "messagePlaceholder_meta": "7",
+    "sendButtonText_meta": "4"
+  }
+  

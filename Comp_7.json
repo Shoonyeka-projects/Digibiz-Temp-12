@@ -1,0 +1,36 @@
+
+{
+    "logoText": "UXOS",
+    "aboutUsHeading": "About Us",
+    "aboutUsText": "dolor sit amet, consectetur magna aliqua. Ut enim ad minim veniam, quisdotempor incididunt r",
+    "usefulLinksHeading": "Useful Links",
+    "usefulLinks": [
+      { "text": "Video games", "to": "/video-games" },
+      { "text": "Remote control", "to": "/remote-control" },
+      { "text": "3d controller", "to": "/3d-controller" }
+    ],
+    "contactUsHeading": "Contact Us",
+    "contactUsText": "dolor sit amet, consectetur magna aliqua. quisdotempor incididunt ut e",
+    "newsletterHeading": "Newsletter",
+    "newsletterPlaceholder": "Enter your email",
+    "subscribeButtonText": "Subscribe",
+    "socialMedia": [
+      { "icon": "images/fb.png", "href": "" },
+      { "icon": "images/twitter.png", "href": "" },
+      { "icon": "images/linkedin.png", "href": "" },
+      { "icon": "images/instagram.png", "href": "" }
+    ],
+
+    "logoText_meta": "4",
+    "aboutUsHeading_meta": "8",
+    "aboutUsText_meta": "92",
+    "usefulLinksHeading_meta": "12",
+
+
+    "contactUsHeading_meta": "10",
+    "contactUsText_meta": "70",
+    "newsletterHeading_meta": "10",
+    "newsletterPlaceholder_meta": "16",
+    "subscribeButtonText_meta": "9"
+  }
+  

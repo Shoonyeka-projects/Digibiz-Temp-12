@@ -1,0 +1,22 @@
+
+{
+    "sections": [
+      {
+        "icon": "path-to-your-svg-icon",
+        "title": "Quick Boostup",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      {
+        "icon": "path-to-your-svg-icon",
+        "title": "Modern Design",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      },
+      {
+        "icon": "path-to-your-svg-icon",
+        "title": "High Resolution",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam"
+      }
+    ],
+    "readMoreLink": "/your-link-path"
+  }
+  

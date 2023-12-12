@@ -1,0 +1,37 @@
+
+{
+    "sections": [
+      {
+        "imgSrc": "images/cloud-download.png",
+        "title": "Download The App",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "btnText": "Read More",
+        "link": "/your-link-path"
+      },
+      {
+        "imgSrc": "images/trophy_.png",
+        "title": "Easy to Customize",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "btnText": "Read More",
+        "link": "/your-link-path"
+      },
+      {
+        "imgSrc": "images/playstore.png",
+        "title": "Connect Your Store",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "btnText": "Read More",
+        "link": "/your-link-path"
+      },
+      {
+        "imgSrc": "images/heart.png",
+        "title": "Enjoy Our App",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+        "btnText": "Read More",
+        "link": "/your-link-path"
+      }
+    ],
+    "mainImgSrc": "images/download-img.png",
+    "downloadBtnText": "Download Now",
+    "downloadBtnLink": "/your-download-path"
+  }
+  
